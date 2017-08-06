@@ -468,12 +468,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
 - [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
 - [ ] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
-- [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+- [x] [Cheat sheet](http://bigocheatsheet.com/)
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
@@ -542,7 +542,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] reverse() - reverses the list
         - [x] remove_value(value) - removes the first item in the list with this value
     - [ ] Doubly-linked List
-        - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
+        - [x] [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - [ ] Implement same interface as for SinglyLinkedList
 
 - ### Stack
