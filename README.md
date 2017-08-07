@@ -522,11 +522,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
-    - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
-    - [ ] Gotcha: you need pointer to pointer knowledge:
-        (for when you pass a pointer to a function that may change the address where that pointer points)
-        This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
-        - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
+    - [x] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
     - [x] implement (I did with tail pointer & without):
         - [x] size() - returns number of data elements in list
         - [x] empty() - bool returns true if empty
@@ -547,15 +543,16 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Stack
     - [x] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [ ] Implement with array
-    - [ ] Implement with linked list
+    - [x] Implement with array
+    - [x] Implement with linked list
 
 - ### Queue
     - [x] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [x] [Priority Queues (video)](https://www.youtube.com/watch?v=wptevk0bshY)
     - [x] [Priority Queue Min Heaps and Max Heaps](https://www.youtube.com/watch?v=HCEr35qpawQ)
-    - [ ] [Priority Queue Inserting Elements](https://www.youtube.com/watch?v=QOJ-CmQiXko)
+    - [x] [Priority Queue Inserting Elements](https://www.youtube.com/watch?v=QOJ-CmQiXko)
+    - [x] [Priority Queue Removing Elements](https://www.youtube.com/watch?v=eVq8CmoC1x8)
     - [ ] Implement using linked-list, with tail pointer:
         - [ ] enqueue(value) - adds value at position at tail
         - [ ] dequeue() - returns value and removes least recently added element (front)
