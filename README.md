@@ -537,9 +537,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] erase(index) - removes node at given index
         - [x] reverse() - reverses the list
         - [x] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [x] Doubly-linked List
         - [x] [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
-        - [ ] Implement same interface as for SinglyLinkedList
+        - [x] Implement same interface as for SinglyLinkedList
 
 - ### Stack
     - [x] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
@@ -553,10 +553,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [Priority Queue Min Heaps and Max Heaps](https://www.youtube.com/watch?v=HCEr35qpawQ)
     - [x] [Priority Queue Inserting Elements](https://www.youtube.com/watch?v=QOJ-CmQiXko)
     - [x] [Priority Queue Removing Elements](https://www.youtube.com/watch?v=eVq8CmoC1x8)
-    - [ ] Implement using linked-list, with tail pointer:
-        - [ ] enqueue(value) - adds value at position at tail
-        - [ ] dequeue() - returns value and removes least recently added element (front)
-        - [ ] empty()
+    - [x] Implement using linked-list, with tail pointer:
+        - [x] enqueue(value) - adds value at position at tail
+        - [x] dequeue() - returns value and removes least recently added element (front)
+        - [x] empty()
     - [ ] Implement using fixed-sized array:
         - [ ] enqueue(value) - adds item at end of available storage
         - [ ] dequeue() - returns value and removes least recently added element
@@ -566,7 +566,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] enqueue(value)
         - [ ] dequeue()
         - [ ] empty()
-    - [ ] Cost:
+    - [x] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
             because you'd need the next to last element, causing a full traversal each dequeue
         - enqueue: O(1) (amortized, linked list and array [probing])
